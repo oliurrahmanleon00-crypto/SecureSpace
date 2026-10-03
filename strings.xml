@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecureSpace</string>
+    <string name="device_admin_label">SecureSpace Sandbox DPC</string>
+    <string name="device_admin_description">Device Policy Controller for Android 10 managed profiles, hardware-backed encryption, and cross-profile sandbox isolation.</string>
+</resources>

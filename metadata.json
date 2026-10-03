@@ -1,0 +1,6 @@
+{
+  "name": "SecureSpace",
+  "description": "Secure dual-space sandbox and Knox-grade encrypted vault with DPC managed profile controls and biometric security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
